@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'An Information Model in a Book! 20 Tweet Share The latest news from the world of BIG BIM  Makers of the Environment is part of an information model whose founda'
-datePublished: '2015-10-17T01:36:21.329Z'
-dateModified: '2015-10-17T01:31:59.156Z'
+datePublished: '2015-10-17T18:12:46.526Z'
+dateModified: '2015-10-17T01:36:21.329Z'
 author: []
 title: ''
 authors: []
